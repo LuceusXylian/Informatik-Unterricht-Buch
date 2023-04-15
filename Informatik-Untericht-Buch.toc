@@ -1,0 +1,33 @@
+\contentsline {section}{\numberline {1}Die Geschichte und Anfang von Informatik}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Schriffrierung}{4}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Der Nachfolger der Schriffrierung: Verschlüssung}{4}{subsubsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.2}Morse Code}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Erfinder des ersten programmierbaren Computer: Konrad Zuse}{5}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Hardware}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Peripherie Geräte}{8}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Eingabegeräte}{8}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Ausgabegeräte}{8}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Schnittstellen von PS/2 bis HDMI}{8}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Computer Hardware Komponenten}{8}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Mainboard}{8}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}CPU}{8}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.3}RAM}{8}{subsubsection.2.5.3}%
+\contentsline {subsubsection}{\numberline {2.5.4}GPU}{8}{subsubsection.2.5.4}%
+\contentsline {subsubsection}{\numberline {2.5.5}Datenspeicher: HDD, SSHD, SSD, M.2 SSD, ROM}{8}{subsubsection.2.5.5}%
+\contentsline {subsubsection}{\numberline {2.5.6}Netzteil und die Stromversorgung der Komponenten}{8}{subsubsection.2.5.6}%
+\contentsline {subsubsection}{\numberline {2.5.7}Kommunikation zwischen Mainboard und Gehäuse}{8}{subsubsection.2.5.7}%
+\contentsline {section}{\numberline {3}Sicherheit, Datenschutz und Datensicherung}{8}{section.3}%
+\contentsline {section}{\numberline {4}Grundlägige Nutzung eines Computers}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Internet und die Richtigkeit von Informationen }{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Webbrowser: Suchmaschiene, recherschieren}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}LibreOffice / Microsoft Office}{8}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Erstellen von Dokumenten}{8}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Erstellen von Präsentationen}{8}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Tabellenkalkulation}{8}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Pixelgrafik}{8}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Vector Grafik}{8}{subsection.4.8}%
+\contentsline {section}{\numberline {5}Logik}{8}{section.5}%
+\contentsline {section}{\numberline {6}Softwareentwicklung}{8}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Anweisungen und Programmablauf}{8}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Datentypen}{8}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Operatoren}{8}{subsection.6.3}%
